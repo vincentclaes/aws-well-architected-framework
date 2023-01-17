@@ -4,7 +4,8 @@ notes and links while following the AWS Well Architected Franework
 
 ## Links
 
-- https://www.wellarchitectedlabs.com/
+- Help you with reviews: https://www.wellarchitectedlabs.com/
+- Upgrade your skills: https://explore.skillbuilder.aws/learn
 
 ## Summary
 ![summary.png](summary.png)
